@@ -1,11 +1,15 @@
 # Meridian & Voss — Luxury Real Estate Flagship & PMS Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_View-Demo_Application-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luxury-realestate-platform-rnjd.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-gold?style=for-the-badge)]()
 
 **Meridian & Voss** is an enterprise-grade, ultra-luxury private real estate web application and Property Management System (PMS). Designed for high-net-worth brokerages, private estate managers, sovereign buyers, and family offices, it combines Geneva-grade typography and aesthetic prestige with custom listing management and geolocation search capabilities.
+
+### 🌐 Live Demo Application
+🔗 **[https://luxury-realestate-platform-rnjd.vercel.app/](https://luxury-realestate-platform-rnjd.vercel.app/)**
 
 ---
 
@@ -82,7 +86,7 @@
 ## 🔐 Admin Portal Access
 
 The Property Management System (PMS) admin portal can be accessed via:
-* **Direct URL**: `http://localhost:3000/admin`
+* **Direct URL**: `https://luxury-realestate-platform-rnjd.vercel.app/admin`
 * **Footer Access**: Click the subtle **Partner PMS** lock icon in the footer legal bar.
 
 ---
