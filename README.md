@@ -47,7 +47,6 @@
 | **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) & Vanilla CSS design tokens |
 | **Icons** | [Lucide React](https://lucide.dev/) |
 | **Storage Engine** | File-system persistent JSON store (`src/lib/db.ts`) |
-| **Deployment** | [Vercel](https://vercel.com/) (Zero-config edge deployment) |
 
 ---
 
@@ -85,15 +84,6 @@
 The Property Management System (PMS) admin portal can be accessed via:
 * **Direct URL**: `http://localhost:3000/admin`
 * **Footer Access**: Click the subtle **Partner PMS** lock icon in the footer legal bar.
-
----
-
-## ⚡ Deployment to Vercel
-
-1. Push your changes to GitHub.
-2. Log into your [Vercel Dashboard](https://vercel.com/).
-3. Click **"New Project"** and select `ARSHMAN1776/luxury-realestate-platform`.
-4. Click **Deploy**. Vercel will automatically build and assign a live HTTPS URL.
 
 ---
 
