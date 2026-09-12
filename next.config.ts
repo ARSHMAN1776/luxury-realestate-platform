@@ -5,10 +5,6 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   compress: true,
 
-  // Self-host friendly: emit a minimal standalone server (.next/standalone).
-  // Used by the Dockerfile shipped for buyers who don't deploy to Vercel.
-  output: "standalone",
-
   images: {
     // Remote luxury photography (Unsplash). Optimised + served as AVIF/WebP by Next.
     remotePatterns: [
@@ -18,7 +14,6 @@ const nextConfig: NextConfig = {
     formats: ["image/avif", "image/webp"],
     deviceSizes: [360, 420, 640, 768, 1024, 1280, 1536, 1920, 2560],
     imageSizes: [64, 96, 128, 192, 256, 384],
-    // Required from Next 16 — restricts which ?q= values may be optimised.
     qualities: [60, 75, 82, 90],
     minimumCacheTTL: 60 * 60 * 24 * 30,
   },
@@ -37,7 +32,7 @@ const nextConfig: NextConfig = {
           { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
           {
             key: "Permissions-Policy",
-            value: "camera=(), microphone=(), geolocation=(), interest-cohort=()",
+            value: "camera=(), microphone=(), geolocation=(self), interest-cohort=()",
           },
         ],
       },
