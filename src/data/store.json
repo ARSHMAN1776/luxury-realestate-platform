@@ -1,0 +1,1608 @@
+{
+  "properties": [
+    {
+      "id": "p-001",
+      "slug": "villa-serafina",
+      "reference": "MV-4471-SD",
+      "name": "Villa Serafina",
+      "tagline": "A cliffside house that treats the Tyrrhenian as its fourth wall",
+      "category": "villas",
+      "status": "available",
+      "price": 24500000,
+      "currency": "EUR",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Romazzino",
+        "city": "Porto Cervo",
+        "region": "Sardinia",
+        "country": "Italy",
+        "countryCode": "IT",
+        "coordinates": {
+          "lat": 41.1268,
+          "lng": 9.5361
+        },
+        "short": "Costa Smeralda, Sardinia"
+      },
+      "specs": {
+        "bedrooms": 7,
+        "bathrooms": 9,
+        "interiorSqm": 1180,
+        "plotSqm": 8400,
+        "parking": 6,
+        "yearBuilt": 1987,
+        "renovated": 2022,
+        "levels": 3,
+        "orientation": "South-west, sunset-facing",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Ninety metres of private granite shoreline",
+        "Restored by Studio Peregrini over three seasons",
+        "Deep-water mooring for a 34-metre vessel",
+        "Terraced gardens by landscape architect Elena Marchetti"
+      ],
+      "narrative": [
+        "Villa Serafina was cut into the Romazzino cliff in 1987 by an owner who wanted the sea to do the decorating. Thirty-five years later, that instinct survives every renovation the house has been through — including the most recent, a three-season restoration that stripped the interiors back to their granite bones and started again.",
+        "The plan is deceptively simple. Three levels step down the rock, each one turning slightly to hold a different part of the bay. Living spaces occupy the middle terrace, opening entirely to the west so that the last two hours of light move through the house rather than past it. Bedrooms sit below, cooler and quieter, each with its own external stair to the water.",
+        "What cannot be photographed is the sound. The cliff geometry funnels the Tyrrhenian into the lower terrace at a volume that makes the property feel considerably more remote than its eleven-minute drive from Porto Cervo would suggest."
+      ],
+      "amenities": [
+        "Infinity pool, heated, 22m",
+        "Private granite beach",
+        "Deep-water mooring",
+        "Staff quarters, two-bedroom",
+        "Wine cellar, 2,400 bottles",
+        "Outdoor kitchen and pergola dining",
+        "Gymnasium and hammam",
+        "Helipad clearance, permitted"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Villa Serafina at golden hour, infinity pool overlooking the Tyrrhenian Sea"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The 22-metre infinity pool on the middle terrace",
+          "caption": "Middle terrace — the pool edge is set 400mm below eye level when seated"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal living room opening entirely to the west",
+          "caption": "Principal salon, west aspect"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bedroom suite with sea view",
+          "caption": "Principal suite, lower terrace"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The granite shoreline below the property",
+          "caption": "Ninety metres of private shoreline"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Dining room with pergola beyond",
+          "caption": "Dining room, opening to the pergola"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The house from the water at dusk",
+          "caption": "From the mooring, looking east"
+        }
+      ],
+      "featured": true,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-001",
+      "investment": {
+        "grossYield": 4.2,
+        "appreciation5yr": 31,
+        "rentalIncomePa": 1040000,
+        "runningCostPa": 285000,
+        "occupancyRate": 68,
+        "notes": "Costa Smeralda peak-season rates have compounded at 9% annually since 2019. The mooring materially widens the charter-client pool."
+      },
+      "listedAt": "2026-05-14"
+    },
+    {
+      "id": "p-002",
+      "slug": "the-mercer-penthouse",
+      "reference": "MV-2209-NY",
+      "name": "The Mercer Penthouse",
+      "tagline": "Two floors above SoHo, with the ceiling height of a gallery",
+      "category": "penthouses",
+      "status": "available",
+      "price": 38750000,
+      "currency": "USD",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "SoHo",
+        "city": "New York",
+        "region": "New York",
+        "country": "United States",
+        "countryCode": "US",
+        "coordinates": {
+          "lat": 40.7233,
+          "lng": -74.0021
+        },
+        "short": "SoHo, New York"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "interiorSqm": 720,
+        "plotSqm": null,
+        "parking": 2,
+        "yearBuilt": 1904,
+        "renovated": 2023,
+        "levels": 2,
+        "orientation": "North-south through-floor",
+        "tenure": "share-transfer"
+      },
+      "highlights": [
+        "4.4-metre ceilings across the principal floor",
+        "Original cast-iron structure, exposed and restored",
+        "310sqm of private planted terrace",
+        "Two deeded parking spaces — rare below Houston"
+      ],
+      "narrative": [
+        "A cast-iron warehouse from 1904, converted once in the 1970s and properly reconsidered in 2023. The current owner brought in a conservation architect before an interior designer, which is the correct order of operations for a building like this and is visible in every decision that followed.",
+        "The principal floor is a single 340sqm volume interrupted only by the original columns. At 4.4 metres, the ceiling is tall enough that the space reads as institutional rather than residential — the owner hangs large-format work here, and the proportions absorb it. Bedrooms are upstairs, deliberately smaller, deliberately quieter.",
+        "The terrace is the anomaly. Three hundred and ten square metres, mature planting, and an outlook that will not change: the surrounding roofline is landmarked in every direction that matters."
+      ],
+      "amenities": [
+        "Private keyed lift, two floors",
+        "310sqm planted terrace",
+        "Chef's kitchen, Molteni suite",
+        "Climate-controlled art store",
+        "Two deeded parking spaces",
+        "Staff suite with separate entry",
+        "Screening room",
+        "Full-building generator"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1920&q=82",
+        "alt": "The Mercer Penthouse principal floor with 4.4-metre ceilings"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal volume with original cast-iron columns",
+          "caption": "Principal floor — original 1904 columns, restored"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Seating area beneath the north windows",
+          "caption": "North aspect seating"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The private planted terrace",
+          "caption": "310sqm terrace, mature planting"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Molteni kitchen suite",
+          "caption": "Kitchen — Molteni, specified 2023"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Internal stair between the two floors",
+          "caption": "Connecting stair, blackened steel"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bathroom in honed marble",
+          "caption": "Principal bathroom"
+        }
+      ],
+      "featured": true,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-002",
+      "investment": {
+        "grossYield": 3.1,
+        "appreciation5yr": 22,
+        "rentalIncomePa": 1200000,
+        "runningCostPa": 410000,
+        "occupancyRate": 92,
+        "notes": "Downtown lofts of this ceiling height number in the dozens. Scarcity, not yield, is the argument here."
+      },
+      "listedAt": "2026-06-02"
+    },
+    {
+      "id": "p-003",
+      "slug": "maison-du-lac",
+      "reference": "MV-8814-CH",
+      "name": "Maison du Lac",
+      "tagline": "A Geneva lakehouse with the discretion the address implies",
+      "category": "estates",
+      "status": "under-offer",
+      "price": 62000000,
+      "currency": "CHF",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Cologny",
+        "city": "Geneva",
+        "region": "Geneva",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "coordinates": {
+          "lat": 46.2224,
+          "lng": 6.1878
+        },
+        "short": "Cologny, Geneva"
+      },
+      "specs": {
+        "bedrooms": 9,
+        "bathrooms": 11,
+        "interiorSqm": 1640,
+        "plotSqm": 14200,
+        "parking": 8,
+        "yearBuilt": 1912,
+        "renovated": 2019,
+        "levels": 4,
+        "orientation": "West, lake and Jura",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "One hundred and forty metres of Lake Geneva frontage",
+        "Original 1912 Belle Époque structure, fully modernised",
+        "Fourteen thousand square metres of mature parkland",
+        "Twelve minutes from Geneva International"
+      ],
+      "narrative": [
+        "Cologny holds perhaps forty properties of genuine consequence, and they rarely reach open market. Maison du Lac has been in the same family since 1948; the current sale follows a generational transfer rather than a change of heart.",
+        "The house is Belle Époque and unapologetic about it — a 1912 structure with the ceiling heights, enfilade planning, and window proportions of its period, brought to contemporary standards in a 2019 programme that touched every service but almost no original detail. The plaster, the parquet, and the principal stair are as built.",
+        "The park is the reason the property commands what it does. Fourteen thousand square metres of mature planting running down to a hundred and forty metres of private lake frontage, with a boathouse and a jetty that predate the current zoning and could not be built today."
+      ],
+      "amenities": [
+        "140m private lake frontage",
+        "Boathouse and jetty, grandfathered",
+        "Indoor pool and spa",
+        "Orangery, restored",
+        "Wine cellar, 6,000 bottles",
+        "Staff cottage, three-bedroom",
+        "Tennis court, north lawn",
+        "Full home automation, Crestron"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Maison du Lac, Belle Époque facade above Lake Geneva"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal salon with original plasterwork",
+          "caption": "Principal salon — original 1912 plaster"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The house within its parkland",
+          "caption": "West elevation from the lower park"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Library with lake outlook",
+          "caption": "Library, west aspect"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Lake Geneva from the private jetty",
+          "caption": "From the jetty, looking toward the Jura"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Formal dining room",
+          "caption": "Formal dining, seating eighteen"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Detail of the restored facade",
+          "caption": "Facade detail, restored 2019"
+        }
+      ],
+      "featured": true,
+      "exclusive": false,
+      "discreet": true,
+      "agentId": "a-003",
+      "investment": {
+        "grossYield": 2.4,
+        "appreciation5yr": 18,
+        "rentalIncomePa": 1490000,
+        "runningCostPa": 620000,
+        "occupancyRate": 45,
+        "notes": "Cologny lakefront is a capital-preservation instrument. Yield is incidental; the grandfathered jetty is not replicable."
+      },
+      "listedAt": "2026-03-21"
+    },
+    {
+      "id": "p-004",
+      "slug": "the-obsidian-residence",
+      "reference": "MV-1092-AE",
+      "name": "The Obsidian Residence",
+      "tagline": "The seventy-eighth floor, held as a single dwelling",
+      "category": "penthouses",
+      "status": "available",
+      "price": 0,
+      "currency": "AED",
+      "priceOnApplication": true,
+      "location": {
+        "neighbourhood": "Downtown",
+        "city": "Dubai",
+        "region": "Dubai",
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "coordinates": {
+          "lat": 25.1972,
+          "lng": 55.2744
+        },
+        "short": "Downtown, Dubai"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": 8,
+        "interiorSqm": 1420,
+        "plotSqm": null,
+        "parking": 6,
+        "yearBuilt": 2021,
+        "levels": 2,
+        "orientation": "360°, full-floor",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "An entire floor plate, 360-degree glazing",
+        "Private pool cantilevered at 312 metres",
+        "Interiors by Vincent Aubert, Paris",
+        "Two dedicated staff apartments on the floor below"
+      ],
+      "narrative": [
+        "Developers rarely release a full plate at this height; when they do, it is usually broken into four. This one was bought unbuilt, in shell, by a client who instructed Vincent Aubert to plan it as a house rather than an apartment — and then sold before taking occupation.",
+        "The result is a two-level residence with a genuine circulation logic. Reception, dining, and the cantilevered pool occupy the upper level and run the full 360 degrees. Bedrooms are below, arranged along the eastern glazing to take the Gulf sunrise, with the western half given over to a gallery corridor that Aubert lit for artwork rather than for architecture.",
+        "The pool is the detail everyone photographs — twenty-one metres, cantilevered clear of the structure at three hundred and twelve metres. It is also, quietly, the most heavily engineered element in the building."
+      ],
+      "amenities": [
+        "Cantilevered pool, 21m, heated",
+        "Two staff apartments, floor below",
+        "Private lift lobby, biometric",
+        "Cinema, twelve seats",
+        "Cigar room with independent extraction",
+        "Six parking bays plus wash bay",
+        "Gymnasium and treatment room",
+        "Full-height wine display, 1,800 bottles"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1920&q=82",
+        "alt": "The Obsidian Residence — Dubai Downtown skyline at dusk"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The outlook at night from the upper level",
+          "caption": "Upper level, north aspect at night"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Reception with 360-degree glazing",
+          "caption": "Reception — full-plate glazing"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The cantilevered pool at 312 metres",
+          "caption": "Cantilevered pool, 312m"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Gallery corridor, lit for artwork",
+          "caption": "Gallery corridor, western half"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Aerial view of the Downtown district",
+          "caption": "The district, looking south-west"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bathroom in book-matched stone",
+          "caption": "Principal bathroom, book-matched Calacatta"
+        }
+      ],
+      "featured": true,
+      "exclusive": true,
+      "discreet": true,
+      "agentId": "a-004",
+      "investment": {
+        "grossYield": 5.8,
+        "appreciation5yr": 42,
+        "rentalIncomePa": 3100000,
+        "runningCostPa": 540000,
+        "occupancyRate": 84,
+        "notes": "Dubai prime has absorbed significant capital since 2022 without a corresponding supply response at full-plate scale. No personal income tax on rental receipts."
+      },
+      "listedAt": "2026-07-08"
+    },
+    {
+      "id": "p-005",
+      "slug": "casa-del-viento",
+      "reference": "MV-6633-ES",
+      "name": "Casa del Viento",
+      "tagline": "Concrete, water, and a Balearic headland that ends in nothing",
+      "category": "villas",
+      "status": "available",
+      "price": 18900000,
+      "currency": "EUR",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Cap Martinet",
+        "city": "Ibiza",
+        "region": "Balearic Islands",
+        "country": "Spain",
+        "countryCode": "ES",
+        "coordinates": {
+          "lat": 38.9421,
+          "lng": 1.4831
+        },
+        "short": "Cap Martinet, Ibiza"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "interiorSqm": 890,
+        "plotSqm": 5600,
+        "parking": 4,
+        "yearBuilt": 2019,
+        "levels": 2,
+        "orientation": "West, open sea",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Board-marked concrete by Ferrer Arquitectos",
+        "Uninterrupted westerly aspect to Es Vedrà",
+        "Twenty-eight-metre lap pool on the upper deck",
+        "Solar and greywater systems — near net-zero in season"
+      ],
+      "narrative": [
+        "Ferrer Arquitectos spent eighteen months on the planning application and four years on the build, which tells you something about both the site and the standard. Casa del Viento sits on a Cap Martinet headland with nothing to its west but water and, on a clear evening, the silhouette of Es Vedrà.",
+        "The material palette is three items long: board-marked concrete, untreated iroko, and glass. Nothing has been added since completion because nothing needs to be. The concrete was poured in situ against timber shuttering and carries the grain of it, which is the sort of decision that costs a great deal and reads as almost nothing.",
+        "In season the house runs close to net-zero. Roof-integrated photovoltaics, a greywater loop feeding the planting, and a thermal mass strategy that means the interiors hold temperature without mechanical assistance until roughly the second week of July."
+      ],
+      "amenities": [
+        "Lap pool, 28m, upper deck",
+        "Roof-integrated photovoltaics",
+        "Greywater recovery to planting",
+        "Outdoor kitchen, iroko and steel",
+        "Guest pavilion, two-bedroom",
+        "Sunken fire terrace",
+        "Gymnasium, glazed to the west",
+        "EV charging, four bays"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Casa del Viento — board-marked concrete villa above the Balearic sea"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The 28-metre lap pool on the upper deck",
+          "caption": "Upper deck, 28m lap pool"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Living volume in concrete and iroko",
+          "caption": "Living volume — in-situ concrete, iroko"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The westerly aspect toward Es Vedrà",
+          "caption": "West aspect, Es Vedrà beyond"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Board-marked concrete detail",
+          "caption": "Board-marked concrete, timber shuttering grain"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bedroom opening to the deck",
+          "caption": "Principal bedroom, west"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The coastline below the headland",
+          "caption": "The cove, five minutes on foot"
+        }
+      ],
+      "featured": false,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-001",
+      "investment": {
+        "grossYield": 5.1,
+        "appreciation5yr": 28,
+        "rentalIncomePa": 964000,
+        "runningCostPa": 178000,
+        "occupancyRate": 71,
+        "notes": "Balearic licensing restricts new tourist rental permits; this property holds one. That permit is a material part of the value."
+      },
+      "listedAt": "2026-04-30"
+    },
+    {
+      "id": "p-006",
+      "slug": "eaton-square-townhouse",
+      "reference": "MV-3378-UK",
+      "name": "Eaton Square Townhouse",
+      "tagline": "Six storeys of Belgravia, white stucco and entirely intact",
+      "category": "residences",
+      "status": "available",
+      "price": 41500000,
+      "currency": "GBP",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Belgravia",
+        "city": "London",
+        "region": "England",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "coordinates": {
+          "lat": 51.4954,
+          "lng": -0.1536
+        },
+        "short": "Eaton Square, London"
+      },
+      "specs": {
+        "bedrooms": 7,
+        "bathrooms": 8,
+        "interiorSqm": 1050,
+        "plotSqm": 420,
+        "parking": 2,
+        "yearBuilt": 1828,
+        "renovated": 2021,
+        "levels": 6,
+        "orientation": "East, garden square",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Grade II listed, Thomas Cubitt terrace",
+        "Freehold — uncommon on the square",
+        "Direct keyholder access to the private gardens",
+        "Lower-ground pool and spa, excavated 2021"
+      ],
+      "narrative": [
+        "Thomas Cubitt laid out Eaton Square in 1828, and the houses on its north side have changed hands perhaps three times each since. This is a freehold, which on this square is scarce enough to be the headline before anything else is discussed.",
+        "The 2021 programme was largely invisible: full re-servicing, a discreet lift through all six storeys, and a lower-ground excavation for the pool and spa. Above ground, the listed fabric was left alone — the cornices, the shutters, the stair, and the first-floor drawing room proportions are all as Cubitt drew them.",
+        "Keyholder access to the private gardens transfers with the freehold. In practice this is the amenity that residents of the square value most and the one that visitors notice least."
+      ],
+      "amenities": [
+        "Lift, all six storeys",
+        "Lower-ground pool and spa",
+        "Private garden square access",
+        "Two off-street parking spaces",
+        "Staff flat, self-contained",
+        "Wine room, 3,200 bottles",
+        "Media room, lower ground",
+        "Roof terrace, south-facing"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Eaton Square Townhouse — white stucco Belgravia facade"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1920&q=82",
+          "alt": "First-floor drawing room with original cornices",
+          "caption": "First-floor drawing room — original cornice"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The principal stair through six storeys",
+          "caption": "Principal stair, as built 1828"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Garden-level kitchen and breakfast room",
+          "caption": "Garden level — kitchen and breakfast room"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bathroom",
+          "caption": "Principal bathroom, second floor"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Library on the second floor",
+          "caption": "Library, second floor"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The private garden square",
+          "caption": "The square gardens — keyholder access"
+        }
+      ],
+      "featured": true,
+      "exclusive": false,
+      "discreet": false,
+      "agentId": "a-005",
+      "investment": {
+        "grossYield": 2.8,
+        "appreciation5yr": 16,
+        "rentalIncomePa": 1162000,
+        "runningCostPa": 340000,
+        "occupancyRate": 88,
+        "notes": "Belgravia freeholds trade on scarcity rather than income. Twelve-year price history shows materially lower drawdown than the wider prime central London index."
+      },
+      "listedAt": "2026-02-11"
+    },
+    {
+      "id": "p-007",
+      "slug": "the-atrium-tower",
+      "reference": "MV-7741-SG",
+      "name": "The Atrium Tower",
+      "tagline": "A Grade-A freehold with a covenant most landlords cannot offer",
+      "category": "commercial",
+      "status": "available",
+      "price": 148000000,
+      "currency": "SGD",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Raffles Place",
+        "city": "Singapore",
+        "region": "Central Region",
+        "country": "Singapore",
+        "countryCode": "SG",
+        "coordinates": {
+          "lat": 1.2839,
+          "lng": 103.8515
+        },
+        "short": "Raffles Place, Singapore"
+      },
+      "specs": {
+        "bedrooms": 0,
+        "bathrooms": 24,
+        "interiorSqm": 18400,
+        "plotSqm": 2100,
+        "parking": 96,
+        "yearBuilt": 2016,
+        "levels": 32,
+        "orientation": "Dual aspect, harbour and city",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Thirty-two storeys, 18,400sqm net lettable",
+        "Green Mark Platinum, recertified 2024",
+        "Weighted average lease expiry of 6.2 years",
+        "Anchor tenant on a fifteen-year term"
+      ],
+      "narrative": [
+        "Freehold commercial stock in Raffles Place is effectively fixed in supply; almost everything transacted in the last decade has been leasehold with a diminishing tail. The Atrium Tower is freehold, which changes the underwriting fundamentally.",
+        "Completed in 2016 to Green Mark Platinum and recertified in 2024, the building runs at an operating cost roughly nineteen per cent below the district median — a function of the facade specification and a chilled-water system that was over-engineered at the outset.",
+        "The rent roll is the asset. A weighted average lease expiry of 6.2 years, an anchor tenant fifteen years into a term with two options remaining, and no single tenant representing more than twenty-two per cent of income."
+      ],
+      "amenities": [
+        "18,400sqm net lettable",
+        "Green Mark Platinum",
+        "96 parking bays, 24 with EV",
+        "End-of-trip facilities, 180 lockers",
+        "Ground-floor retail, four units",
+        "N+1 chiller redundancy",
+        "Destination-dispatch lift core",
+        "Sky terrace, level 31"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1920&q=82",
+        "alt": "The Atrium Tower — Grade-A commercial atrium in Raffles Place"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The tower from street level",
+          "caption": "Thirty-two storeys, dual aspect"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Typical office floor plate",
+          "caption": "Typical floor — 575sqm, column-free"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Tenant lounge on the sky terrace level",
+          "caption": "Sky terrace lounge, level 31"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Facade detail",
+          "caption": "Facade — high-performance double-skin"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The building within the Raffles Place skyline",
+          "caption": "Within the Raffles Place core"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1439337153520-7082a56a81f4?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Structural detail of the atrium",
+          "caption": "Atrium structure"
+        }
+      ],
+      "featured": false,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-006",
+      "investment": {
+        "grossYield": 4.6,
+        "appreciation5yr": 24,
+        "rentalIncomePa": 6808000,
+        "runningCostPa": 1290000,
+        "occupancyRate": 96,
+        "notes": "Freehold Grade-A in the Raffles Place core is a closed set. Operating costs run ~19% below district median on the current certification."
+      },
+      "listedAt": "2026-01-19"
+    },
+    {
+      "id": "p-008",
+      "slug": "isla-verena",
+      "reference": "MV-9902-BS",
+      "name": "Isla Verena",
+      "tagline": "Forty hectares, one house, and no neighbours by construction",
+      "category": "islands",
+      "status": "available",
+      "price": 0,
+      "currency": "USD",
+      "priceOnApplication": true,
+      "location": {
+        "neighbourhood": "Exuma Cays",
+        "city": "Exuma",
+        "region": "Out Islands",
+        "country": "Bahamas",
+        "countryCode": "BS",
+        "coordinates": {
+          "lat": 24.1783,
+          "lng": -76.4372
+        },
+        "short": "Exuma Cays, Bahamas"
+      },
+      "specs": {
+        "bedrooms": 10,
+        "bathrooms": 12,
+        "interiorSqm": 2240,
+        "plotSqm": 404000,
+        "parking": 4,
+        "yearBuilt": 2015,
+        "levels": 2,
+        "orientation": "All aspects — private island",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Forty hectares held freehold in their entirety",
+        "Deep-water dock and permitted airstrip",
+        "Main house plus four guest pavilions",
+        "Desalination and full solar microgrid"
+      ],
+      "narrative": [
+        "A private island is a logistics proposition before it is a lifestyle one, and Isla Verena was developed by an owner who understood that. The infrastructure came first: a deep-water dock capable of taking a 45-metre vessel, a permitted 900-metre airstrip, desalination, and a solar microgrid with four days of battery autonomy.",
+        "Only then came the buildings. A main house of 1,180 square metres on the island's western rise, and four guest pavilions placed far enough apart that none is visible from another. All five structures are timber-framed, hurricane-rated to 250km/h, and finished in materials chosen for salt tolerance over appearance — though the appearance has not suffered for it.",
+        "The remaining thirty-eight hectares are largely untouched. Two beaches, a mangrove system on the eastern shore that supports a resident bonefish population, and a ridge trail that takes about forty minutes end to end."
+      ],
+      "amenities": [
+        "Deep-water dock, 45m capacity",
+        "Permitted airstrip, 900m",
+        "Solar microgrid, four-day autonomy",
+        "Desalination, 40,000 l/day",
+        "Four guest pavilions",
+        "Two private beaches",
+        "Staff village, eight residences",
+        "Hurricane rating to 250km/h"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Isla Verena — private island in the Exuma Cays from the air"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1454391304352-2bf4678b1a7a?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The island from the north",
+          "caption": "From the north — forty hectares"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The main house on the western rise",
+          "caption": "Main house, western rise"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The southern beach",
+          "caption": "South beach"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Main house living pavilion",
+          "caption": "Living pavilion, main house"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Pool terrace above the west beach",
+          "caption": "Pool terrace, west"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The mangrove system on the eastern shore",
+          "caption": "Eastern mangroves — resident bonefish"
+        }
+      ],
+      "featured": true,
+      "exclusive": true,
+      "discreet": true,
+      "agentId": "a-003",
+      "investment": {
+        "grossYield": 6.4,
+        "appreciation5yr": 38,
+        "rentalIncomePa": 4200000,
+        "runningCostPa": 1100000,
+        "occupancyRate": 62,
+        "notes": "Whole-island charter rates in the Exumas have doubled since 2020. Bahamian ownership carries no capital gains or inheritance tax."
+      },
+      "listedAt": "2026-06-25"
+    },
+    {
+      "id": "p-009",
+      "slug": "chalet-hauteville",
+      "reference": "MV-5520-FR",
+      "name": "Chalet Hauteville",
+      "tagline": "Ski-in on old larch, with the Mont Blanc massif in the glass",
+      "category": "estates",
+      "status": "reserved",
+      "price": 29400000,
+      "currency": "EUR",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Le Rocher",
+        "city": "Courchevel 1850",
+        "region": "Savoie",
+        "country": "France",
+        "countryCode": "FR",
+        "coordinates": {
+          "lat": 45.4154,
+          "lng": 6.6349
+        },
+        "short": "Courchevel 1850, Savoie"
+      },
+      "specs": {
+        "bedrooms": 8,
+        "bathrooms": 10,
+        "interiorSqm": 1320,
+        "plotSqm": 3100,
+        "parking": 5,
+        "yearBuilt": 2017,
+        "levels": 5,
+        "orientation": "South-east, massif view",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "True ski-in, ski-out on the Bellecôte return",
+        "Reclaimed larch, sourced from four Savoyard barns",
+        "Spa level with pool, hammam, and snow room",
+        "Heated garage for five, with ski-boot lift"
+      ],
+      "narrative": [
+        "Genuine ski-in, ski-out in 1850 is a short list, and Le Rocher is at the top of it. Chalet Hauteville returns directly onto the Bellecôte piste — not a two-minute walk, not a shuttle, but an actual door onto snow.",
+        "The building is 2017 but reads considerably older, because the external larch was reclaimed from four Savoyard barns and left to weather rather than treated. Inside, five levels are stacked around a central stair, with the principal reception on the third to put the Mont Blanc massif at eye level from the sofa rather than above it.",
+        "The spa level is the part guests do not expect. A twenty-metre pool cut into the rock, hammam, snow room, and two treatment rooms — all below ground, all naturally cool, and all served by a plant room sized for a building twice this size."
+      ],
+      "amenities": [
+        "Ski-in, ski-out — Bellecôte return",
+        "Pool, 20m, cut into rock",
+        "Hammam, snow room, two treatment rooms",
+        "Heated garage, five vehicles",
+        "Ski room with boot lift",
+        "Cinema, fourteen seats",
+        "Staff accommodation, four-bedroom",
+        "Helipad, five minutes by road"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Chalet Hauteville at dusk, Courchevel 1850"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Third-floor reception with massif view",
+          "caption": "Principal reception, third floor"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The chalet lit at night",
+          "caption": "South-east elevation at night"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bedroom suite",
+          "caption": "Principal suite, fourth floor"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Spa level pool",
+          "caption": "Spa level — 20m pool cut into rock"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Dining room in reclaimed larch",
+          "caption": "Dining — reclaimed Savoyard larch"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Terrace above the piste",
+          "caption": "Terrace, above the Bellecôte return"
+        }
+      ],
+      "featured": false,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-005",
+      "investment": {
+        "grossYield": 4.9,
+        "appreciation5yr": 26,
+        "rentalIncomePa": 1440000,
+        "runningCostPa": 296000,
+        "occupancyRate": 74,
+        "notes": "Peak-week rates in 1850 clear €165,000. True ski-in inventory is effectively fixed — no comparable plots remain on Le Rocher."
+      },
+      "listedAt": "2026-05-02"
+    },
+    {
+      "id": "p-010",
+      "slug": "villa-kamala",
+      "reference": "MV-2287-TH",
+      "name": "Villa Kamala",
+      "tagline": "An Andaman headland, engineered to disappear into it",
+      "category": "villas",
+      "status": "available",
+      "price": 12600000,
+      "currency": "USD",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Millionaire's Mile",
+        "city": "Kamala, Phuket",
+        "region": "Phuket",
+        "country": "Thailand",
+        "countryCode": "TH",
+        "coordinates": {
+          "lat": 7.9519,
+          "lng": 98.2811
+        },
+        "short": "Kamala, Phuket"
+      },
+      "specs": {
+        "bedrooms": 6,
+        "bathrooms": 7,
+        "interiorSqm": 1040,
+        "plotSqm": 3900,
+        "parking": 4,
+        "yearBuilt": 2020,
+        "levels": 4,
+        "orientation": "West, Andaman Sea",
+        "tenure": "leasehold"
+      },
+      "highlights": [
+        "Four terraces stepped into the headland",
+        "Twenty-five-metre pool on the upper deck",
+        "Full villa-management agreement in place",
+        "Sunset aspect over the Andaman, unobstructed"
+      ],
+      "narrative": [
+        "Kamala's western headland — locally and unglamorously known as Millionaire's Mile — has perhaps twenty properties with a genuinely unobstructed sunset aspect. Villa Kamala is one of them, and it was built by an architect who chose to work with the gradient rather than flatten it.",
+        "Four levels step down the slope, each one a single terrace deep, so that no room in the house looks at another. The upper deck holds the pool and the principal reception; the two below are bedrooms; the lowest is a spa and gym that opens onto planting rather than view, which was a deliberate and slightly brave decision.",
+        "A full management agreement transfers with the sale — the same operator has run the property since completion, with staffing, maintenance, and rental administration in place. For a non-resident owner this is the difference between an asset and a project."
+      ],
+      "amenities": [
+        "Pool, 25m, upper deck",
+        "Spa and gymnasium, lower level",
+        "Full management agreement",
+        "Staff quarters, four-bedroom",
+        "Outdoor sala and dining",
+        "Cinema room",
+        "Backup generator, whole-house",
+        "Beach club membership, transferable"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Villa Kamala stepped into the Andaman headland"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The 25-metre pool on the upper deck",
+          "caption": "Upper deck, 25m pool"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal reception, west aspect",
+          "caption": "Principal reception, west"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Sunset over the Andaman Sea",
+          "caption": "The aspect — unobstructed west"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Bedroom on the second terrace",
+          "caption": "Second terrace bedroom"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Kamala beach below the headland",
+          "caption": "Kamala beach"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Outdoor sala",
+          "caption": "Sala, third terrace"
+        }
+      ],
+      "featured": false,
+      "exclusive": false,
+      "discreet": false,
+      "agentId": "a-004",
+      "investment": {
+        "grossYield": 7.2,
+        "appreciation5yr": 33,
+        "rentalIncomePa": 907000,
+        "runningCostPa": 164000,
+        "occupancyRate": 79,
+        "notes": "Highest running yield on our books. Note the leasehold structure — 30 years remaining with two renewal options, standard for foreign ownership in Thailand."
+      },
+      "listedAt": "2026-07-16"
+    },
+    {
+      "id": "p-011",
+      "slug": "the-vaux-apartments",
+      "reference": "MV-4419-FR",
+      "name": "The Vaux Apartments",
+      "tagline": "A Haussmann corner on Avenue Montaigne, held as two",
+      "category": "residences",
+      "status": "available",
+      "price": 21800000,
+      "currency": "EUR",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "8e Arrondissement",
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "countryCode": "FR",
+        "coordinates": {
+          "lat": 48.8662,
+          "lng": 2.3045
+        },
+        "short": "Avenue Montaigne, Paris"
+      },
+      "specs": {
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "interiorSqm": 480,
+        "plotSqm": null,
+        "parking": 2,
+        "yearBuilt": 1874,
+        "renovated": 2020,
+        "levels": 2,
+        "orientation": "Corner, south and west",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Second and third floors of a Haussmann corner building",
+        "Original parquet de Versailles and boiserie throughout",
+        "Two cellars and two parking spaces included",
+        "Four minutes on foot to Plaza Athénée"
+      ],
+      "narrative": [
+        "Two apartments on the second and third floors of an 1874 Haussmann corner, currently held together and connected by a private internal stair. They can be reunited into a single 480-square-metre residence or separated again — the structural work for either is already done.",
+        "The 2020 renovation was conservative in the best sense. Parquet de Versailles lifted, numbered, restored, and relaid. Boiserie stripped by hand rather than chemically. Marble fireplaces retained in all six principal rooms. Services entirely renewed, but routed so that no original moulding was cut.",
+        "The corner position gives dual south and west aspect, which in the eighth is worth a great deal — most Haussmann floorplates of this size face one way and take light from a courtyard."
+      ],
+      "amenities": [
+        "Private internal stair between floors",
+        "Two parking spaces, secure",
+        "Two cellars",
+        "Concierge, twenty-four hour",
+        "Six marble fireplaces, original",
+        "Service entrance, both floors",
+        "Lift to both levels",
+        "Balcony, south elevation"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1920&q=82",
+        "alt": "The Vaux Apartments — Haussmann salon on Avenue Montaigne"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Dining room with original boiserie",
+          "caption": "Dining room — boiserie, hand-stripped"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The Haussmann corner facade",
+          "caption": "Corner facade, 1874"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Salon on the second floor",
+          "caption": "Second-floor salon, south aspect"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal bedroom, third floor",
+          "caption": "Principal bedroom, third floor"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Kitchen, third floor",
+          "caption": "Kitchen, renewed 2020"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The private connecting stair",
+          "caption": "Private stair between floors"
+        }
+      ],
+      "featured": false,
+      "exclusive": false,
+      "discreet": false,
+      "agentId": "a-002",
+      "investment": {
+        "grossYield": 3.4,
+        "appreciation5yr": 19,
+        "rentalIncomePa": 741000,
+        "runningCostPa": 152000,
+        "occupancyRate": 91,
+        "notes": "Optionality is the argument: hold as one residence, or separate into two lettable units with independent lift access."
+      },
+      "listedAt": "2026-04-08"
+    },
+    {
+      "id": "p-012",
+      "slug": "hacienda-los-olivos",
+      "reference": "MV-6675-ES",
+      "name": "Hacienda Los Olivos",
+      "tagline": "Two hundred hectares of Andalucía, and a working olive estate",
+      "category": "estates",
+      "status": "available",
+      "price": 16200000,
+      "currency": "EUR",
+      "priceOnApplication": false,
+      "location": {
+        "neighbourhood": "Ronda",
+        "city": "Málaga",
+        "region": "Andalusia",
+        "country": "Spain",
+        "countryCode": "ES",
+        "coordinates": {
+          "lat": 36.7462,
+          "lng": -5.1611
+        },
+        "short": "Ronda, Andalusia"
+      },
+      "specs": {
+        "bedrooms": 12,
+        "bathrooms": 13,
+        "interiorSqm": 2680,
+        "plotSqm": 2000000,
+        "parking": 10,
+        "yearBuilt": 1782,
+        "renovated": 2018,
+        "levels": 2,
+        "orientation": "South, Serranía de Ronda",
+        "tenure": "freehold"
+      },
+      "highlights": [
+        "Two hundred hectares, 14,000 producing olive trees",
+        "Eighteenth-century cortijo, restored 2018",
+        "Own mill and DO-certified oil production",
+        "Equestrian facility with eight boxes and a manège"
+      ],
+      "narrative": [
+        "Hacienda Los Olivos is a working agricultural business with an exceptional house on it, and it is important to understand it in that order. Fourteen thousand producing olive trees across two hundred hectares, an on-site mill, and a Denominación de Origen certification that took the previous owner six years to obtain.",
+        "The cortijo dates from 1782 and was restored in 2018 by a team that had done three comparable buildings in the Serranía. Lime plaster, chestnut beams, and terracotta floors — all original where they could be saved and correctly reproduced where they could not. Twelve bedrooms across two wings, arranged around the original courtyard.",
+        "The estate produces between eighteen and twenty-two thousand litres annually depending on the season, sold under its own label. It is not a hobby operation; it employs nine people year-round and considerably more at harvest."
+      ],
+      "amenities": [
+        "14,000 producing olive trees",
+        "On-site mill, DO certified",
+        "Equestrian facility, eight boxes",
+        "Manège, 60m × 20m",
+        "Pool, 24m, original cistern",
+        "Guest cortijo, four-bedroom",
+        "Staff housing, three residences",
+        "Chapel, deconsecrated 1961"
+      ],
+      "hero": {
+        "src": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Hacienda Los Olivos — eighteenth-century cortijo in the Serranía de Ronda"
+      },
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The original courtyard",
+          "caption": "Courtyard, as laid out 1782"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Principal salon with chestnut beams",
+          "caption": "Principal salon — chestnut beams, original"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The olive groves from the south",
+          "caption": "The groves — 14,000 trees"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=1920&q=82",
+          "alt": "Dining room, east wing",
+          "caption": "Dining room, east wing"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The pool, converted from the original cistern",
+          "caption": "Pool — the 1782 cistern, converted"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1920&q=82",
+          "alt": "The estate at golden hour",
+          "caption": "South elevation, evening"
+        }
+      ],
+      "featured": false,
+      "exclusive": true,
+      "discreet": false,
+      "agentId": "a-006",
+      "investment": {
+        "grossYield": 4.4,
+        "appreciation5yr": 21,
+        "rentalIncomePa": 712000,
+        "runningCostPa": 384000,
+        "occupancyRate": 58,
+        "notes": "Dual income: agricultural production plus event and rental use. Andalusian agricultural land carries favourable succession treatment for qualifying holdings."
+      },
+      "listedAt": "2026-03-05"
+    }
+  ],
+  "agents": [
+    {
+      "id": "a-001",
+      "slug": "eloise-marchetti",
+      "name": "Éloise Marchetti",
+      "role": "Senior Partner — Mediterranean",
+      "base": "Milan",
+      "languages": [
+        "Italian",
+        "English",
+        "French",
+        "Spanish"
+      ],
+      "specialisms": [
+        "Coastal estates",
+        "Restoration mandates",
+        "Balearic & Sardinian"
+      ],
+      "tenure": 17,
+      "bio": "Éloise came to the house from a conservation practice in Florence, which is why she reads a building before she reads its brochure. She has handled the Costa Smeralda book since 2014 and has a standing rule about never bringing a client to a property she has not slept in.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Éloise Marchetti, Senior Partner — Mediterranean"
+      },
+      "email": "e.marchetti@meridian-voss.com",
+      "phone": "+39 02 8734 9910",
+      "transactedUsd": 1840000000
+    },
+    {
+      "id": "a-002",
+      "slug": "julian-reyes",
+      "name": "Julian Reyes",
+      "role": "Partner — Americas",
+      "base": "New York",
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "specialisms": [
+        "Loft & conversion",
+        "Art-led acquisitions",
+        "Downtown Manhattan"
+      ],
+      "tenure": 12,
+      "bio": "Julian spent nine years placing collections before he placed a single apartment, and the two disciplines have more in common than either field admits. He is the person to speak to if the walls matter as much as the view.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Julian Reyes, Partner — Americas"
+      },
+      "email": "j.reyes@meridian-voss.com",
+      "phone": "+1 212 555 0184",
+      "transactedUsd": 1210000000
+    },
+    {
+      "id": "a-003",
+      "slug": "anneke-de-vries",
+      "name": "Anneke de Vries",
+      "role": "Managing Partner",
+      "base": "Geneva",
+      "languages": [
+        "Dutch",
+        "English",
+        "German",
+        "French"
+      ],
+      "specialisms": [
+        "Private mandates",
+        "Succession & structure",
+        "Off-market"
+      ],
+      "tenure": 23,
+      "bio": "Anneke has run the house since 2019 and the Geneva desk for eleven years before that. Roughly two-thirds of what she transacts is never advertised, which is a statistic she regards as the entire point rather than an inconvenience.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Anneke de Vries, Managing Partner"
+      },
+      "email": "a.devries@meridian-voss.com",
+      "phone": "+41 22 555 0119",
+      "transactedUsd": 3960000000
+    },
+    {
+      "id": "a-004",
+      "slug": "rashid-al-mansouri",
+      "name": "Rashid Al-Mansouri",
+      "role": "Partner — Middle East & Asia",
+      "base": "Dubai",
+      "languages": [
+        "Arabic",
+        "English",
+        "Hindi"
+      ],
+      "specialisms": [
+        "Tower residences",
+        "Development stock",
+        "Gulf & South-East Asia"
+      ],
+      "tenure": 9,
+      "bio": "Rashid underwrote development finance for six years before moving to the acquisition side, and he still builds the model before he shows the floorplate. Clients who arrive with a spreadsheet tend to stay with him.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Rashid Al-Mansouri, Partner — Middle East & Asia"
+      },
+      "email": "r.almansouri@meridian-voss.com",
+      "phone": "+971 4 555 0172",
+      "transactedUsd": 2470000000
+    },
+    {
+      "id": "a-005",
+      "slug": "clara-whitmore",
+      "name": "Clara Whitmore",
+      "role": "Partner — United Kingdom & Alpine",
+      "base": "London",
+      "languages": [
+        "English",
+        "French",
+        "German"
+      ],
+      "specialisms": [
+        "Listed & heritage",
+        "Prime central London",
+        "Alpine"
+      ],
+      "tenure": 14,
+      "bio": "Clara handles the listed book, which means she spends as much time with planning officers as with buyers. She has taken four Grade II consents through to completion without losing an original cornice, and mentions this only when asked.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Clara Whitmore, Partner — United Kingdom & Alpine"
+      },
+      "email": "c.whitmore@meridian-voss.com",
+      "phone": "+44 20 7555 0143",
+      "transactedUsd": 1650000000
+    },
+    {
+      "id": "a-006",
+      "slug": "tobias-lindqvist",
+      "name": "Tobias Lindqvist",
+      "role": "Partner — Commercial & Land",
+      "base": "Singapore",
+      "languages": [
+        "Swedish",
+        "English",
+        "Mandarin"
+      ],
+      "specialisms": [
+        "Grade-A commercial",
+        "Agricultural estates",
+        "Yield structuring"
+      ],
+      "tenure": 11,
+      "bio": "Tobias covers the part of the book that produces income rather than pleasure — towers, farmland, and the occasional working vineyard. He is the only partner who routinely advises clients not to buy.",
+      "portrait": {
+        "src": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&h=1500&q=82",
+        "alt": "Tobias Lindqvist, Partner — Commercial & Land"
+      },
+      "email": "t.lindqvist@meridian-voss.com",
+      "phone": "+65 6555 0128",
+      "transactedUsd": 2090000000
+    }
+  ],
+  "journalPosts": [
+    {
+      "id": "j-1",
+      "slug": "the-scarcity-premium-is-not-a-market-cycle",
+      "title": "The Scarcity Premium Is Not a Market Cycle",
+      "excerpt": "Grandfathered moorings, expired consents, protected sightlines. A growing share of prime value now sits in permissions that current regulation would refuse to grant.",
+      "category": "Market Intelligence",
+      "readMinutes": 7,
+      "publishedAt": "2026-07-22",
+      "author": "Anneke de Vries",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Private shoreline beneath a cliffside property"
+      },
+      "body": [
+        "There is a category of value in prime property that does not appear in any comparable analysis, does not respond to interest rates, and cannot be created by capital. It is the value of a permission that would not be issued today.",
+        "We have been tracking it deliberately since 2019, and across our own book it now accounts for a materially larger share of price than it did a decade ago.",
+        "## What the category contains",
+        "A deep-water mooring on a coastline that has since been designated. A ninety-metre private beach in a jurisdiction that now mandates public access above the high-water line. A rental licence in the Balearics, where new tourist permits have been effectively frozen since 2022. A jetty on Lake Geneva built in 1948 under zoning that was rewritten in 1974.",
+        "None of these can be replicated at any price. A buyer with unlimited capital cannot acquire the right to build them, because the right no longer exists to be sold.",
+        "## Why it behaves differently",
+        "Ordinary prime property is cyclical. It responds to credit conditions, currency movement, and the general appetite for risk assets, and it draws down accordingly. What we might call permission-backed value does not behave this way, because its supply curve is not merely inelastic — it is fixed and, in most jurisdictions, declining.",
+        "Across the eleven transactions on our book carrying a non-replicable permission between 2019 and 2025, the average drawdown during the 2022–23 correction was 4.1 per cent. The comparable figure for our wider prime residential book was 11.8 per cent.",
+        "## The diligence implication",
+        "This changes what diligence has to look for. A structural survey and a title search will confirm that a mooring exists and that it is owned. Neither will tell you whether it could be rebuilt if a storm removed it, and that is frequently the more consequential question.",
+        "We now instruct a planning opinion on any property where a material part of the value sits in a physical asset outside the building envelope. In roughly one case in five, the opinion returns something the seller did not know — occasionally in the buyer's favour.",
+        "## What we tell clients",
+        "Where a property carries a permission that could not be reissued, we say so explicitly in the underwriting model and we assign it a value. Where a property's permissions are ordinary and replicable, we say that too. The distinction is not a marketing device; it is the single most reliable predictor of downside behaviour we have found."
+      ]
+    },
+    {
+      "id": "j-2",
+      "slug": "orientation-is-the-only-specification-you-cannot-renovate",
+      "title": "Orientation Is the Only Specification You Cannot Renovate",
+      "excerpt": "Kitchens are replaceable. Bathrooms are replaceable. The direction a house faces is fixed for its entire life, and it is the specification buyers examine least.",
+      "category": "Architecture",
+      "readMinutes": 5,
+      "publishedAt": "2026-06-30",
+      "author": "Éloise Marchetti",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Interior room in low afternoon light"
+      },
+      "body": [
+        "A client once asked me to value two houses on the same Sardinian hillside, four hundred metres apart, built in the same decade to almost identical specification. One was worth roughly thirty per cent more than the other. The difference was thirty-one degrees of rotation.",
+        "## The thing that cannot be changed",
+        "Almost everything in a house is a decision that can be revisited. Kitchens are replaced on a fifteen-year cycle. Bathrooms similarly. Roofs, services, glazing, insulation, layout, and in many jurisdictions the envelope itself — all of it can be altered by a sufficiently determined owner with sufficient capital.",
+        "Orientation cannot. A house that faces north-east at completion faces north-east when it is demolished. It is the one specification that is genuinely permanent, and in my experience it is the one buyers spend the least time on.",
+        "## What it actually governs",
+        "Orientation determines when a room is usable. A west-facing terrace in the Mediterranean is unusable between one and four in the afternoon for five months of the year, and is the best room in the house for the two hours after that. An east-facing bedroom is awake at five in June whether its occupant is or not.",
+        "It also governs running cost. Thermal load on a south-west elevation in Andalusia is roughly double that of a north-east one, which translates directly into cooling plant, cooling cost, and the frequency with which that plant is replaced.",
+        "## How we record it",
+        "We note the aspect of every principal room on our book, and for coastal and alpine properties we record the sun angle at the equinox and both solstices. Where the decision between two properties is close, we will ask a client to return at a different hour before they commit. Roughly one client in six changes their preference after doing so.",
+        "## A short test",
+        "Stand in the room you would use most and ask what time it is. If the answer is the time you would actually be in it, the house is oriented for you. If the light is arriving three hours before or after you would want it, no renovation will fix that, and no photograph will have told you."
+      ]
+    },
+    {
+      "id": "j-3",
+      "slug": "why-we-declined-eleven-acquisitions",
+      "title": "Why We Declined Eleven Acquisitions Last Year",
+      "excerpt": "Our fee does not depend on which property a client buys. That single structural fact is what allows us to say the answer is none of them.",
+      "category": "The House",
+      "readMinutes": 6,
+      "publishedAt": "2026-05-18",
+      "author": "Tobias Lindqvist",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Monolithic architectural facade"
+      },
+      "body": [
+        "In 2025 we were instructed on acquisitions that we subsequently advised our own clients not to complete on eleven occasions. Nine of those clients took the advice. Two did not, and one of those two has since told me they wish they had.",
+        "## The conflict nobody discusses",
+        "A selling agent is paid when a property sells. A buying agent paid on completion is in exactly the same position — the fee arrives only if a transaction occurs, which means the incentive to find a reason to proceed is structural rather than personal.",
+        "We charge buy-side mandates on a retained basis. The fee is the same whether a client buys the first property we show them, the fortieth, or none at all. This is not a moral position; it is an engineering one. Remove the incentive and the advice changes.",
+        "## What the eleven had in common",
+        "Four failed on title — undisclosed easements, an unregistered right of way, and in one case a boundary that had been informally moved in the 1980s and never regularised. Three failed on structure, all three concerning substrate rather than the building.",
+        "Two failed on the model. Both were presented with rental figures that assumed occupancy rates the local market had not achieved in any of the preceding six years. One failed on planning: a neighbouring plot held a live consent for a building that would have removed the entire sightline.",
+        "The eleventh failed because the client, on the third viewing, could not answer what they would do there on an ordinary Tuesday. That is a legitimate reason to stop.",
+        "## The cost of saying no",
+        "Declining eleven transactions cost us a meaningful amount of revenue we would otherwise have recognised. It is worth being explicit that this is a real cost and not a rhetorical one.",
+        "What it purchased was the ability to say, credibly, that when we do recommend a property, the recommendation means something. Six of those nine clients subsequently completed on an alternative through us. The other three are still looking, and we are still retained."
+      ]
+    },
+    {
+      "id": "j-4",
+      "slug": "underwriting-a-private-island",
+      "title": "Underwriting a Private Island",
+      "excerpt": "Desalination, generation capacity, dock depth, medical evacuation time. The building is the last thing that should be assessed, and usually the first thing that is.",
+      "category": "Investment",
+      "readMinutes": 8,
+      "publishedAt": "2026-04-11",
+      "author": "Rashid Al-Mansouri",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Private island seen from the air"
+      },
+      "body": [
+        "Every private island we have been asked to assess has been presented to us photographically. Every one we have recommended has been recommended on a spreadsheet.",
+        "## Water first",
+        "An island's carrying capacity is set by its fresh water, and nothing else matters until that number is established. Desalination capacity, storage volume, and — critically — redundancy. A single reverse-osmosis unit serving a ten-bedroom house is not an amenity; it is a single point of failure that renders the property uninhabitable within about seventy-two hours of a fault.",
+        "We look for two independent units, storage of at least fourteen days at full occupancy, and a maintenance record showing the units have actually been serviced rather than merely installed.",
+        "## Then power",
+        "Generation, storage, and autonomy. Solar with four days of battery reserve and a diesel backup is a serious specification. Solar with no reserve and a generator that has not been load-tested since commissioning is a liability that will present itself during the first storm.",
+        "## Then access",
+        "Dock depth at low water, not at high. Airstrip length, surface, and — the question that is almost never asked — whether the permit is current and whether it transfers on sale. We have seen two islands where it did not.",
+        "Medical evacuation time to a facility capable of receiving a cardiac patient. On one Caribbean island we assessed, the honest figure was four hours and eleven minutes. The client bought a different island.",
+        "## Then, finally, the house",
+        "Hurricane rating, salt tolerance of the specified materials, and the practical question of who maintains it. An island house is only as good as the staffing arrangement that keeps it, and staff arrangements on remote properties are considerably harder to sustain than owners anticipate.",
+        "## What the numbers looked like",
+        "On the last island we recommended, infrastructure represented sixty-two per cent of replacement cost and the buildings thirty-eight. The particulars had devoted one line to the former and eleven photographs to the latter. Our model inverted that ratio, and the price we advised was nineteen per cent below asking. It was accepted."
+      ]
+    },
+    {
+      "id": "j-5",
+      "slug": "the-return-of-the-single-floor-plate",
+      "title": "The Return of the Single Floor Plate",
+      "excerpt": "Developers have spent a decade subdividing upper floors into four. The buyers who matter most at that height are now asking for one.",
+      "category": "Market Intelligence",
+      "readMinutes": 5,
+      "publishedAt": "2026-03-09",
+      "author": "Rashid Al-Mansouri",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1920&q=82",
+        "alt": "City skyline at night from a tower residence"
+      },
+      "body": [
+        "Between 2012 and 2022, the prevailing logic in tall residential development was that four apartments on a floor produced more revenue than one. Across most of the price curve this remains true. At the top of it, it has stopped being true.",
+        "## What changed",
+        "A subdivided upper floor produces four units with single or dual aspect. A full plate produces one unit with 360 degrees. The premium buyers at this level are paying for is not square metres — it is the absence of a shared corridor, a neighbouring wall, and a lift lobby they do not control.",
+        "In the eleven markets we track, full-plate residences transacted at an average of 2.3 times the per-square-metre rate of subdivided units in the same building. In Dubai and Hong Kong the multiple was higher.",
+        "## The supply problem",
+        "Almost nobody is building them. A developer must commit to the full-plate configuration at structural design stage, because the core, the lift strategy, and the service risers all differ. That decision is taken five to seven years before the unit is sold, under financing conditions that reward unit count.",
+        "The consequence is a category where demand has grown and supply has been fixed by decisions taken half a decade ago. We currently have four full-plate mandates across nine offices and enquiries from considerably more than four qualified acquirers.",
+        "## What we advise",
+        "For buyers: shell purchases at structural stage remain the only reliable route, and they require a five-year horizon and tolerance for construction risk. For owners of existing full plates: the scarcity is structural rather than cyclical, and there is no supply response arriving before 2031."
+      ]
+    },
+    {
+      "id": "j-6",
+      "slug": "a-house-is-a-fifty-year-relationship",
+      "title": "A House Is a Fifty-Year Relationship",
+      "excerpt": "We hold management oversight on 214 properties we previously placed. What that has taught us about the second decade of ownership.",
+      "category": "Lifestyle",
+      "readMinutes": 6,
+      "publishedAt": "2026-02-14",
+      "author": "Clara Whitmore",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1920&q=82",
+        "alt": "Courtyard of a private estate"
+      },
+      "body": [
+        "The transaction takes between four and fourteen months. The ownership takes between fifteen and fifty years. Almost the entire property industry is organised around the former.",
+        "## What the second decade looks like",
+        "Years one to three are straightforward: the house is new to its owner, the systems are under warranty, and the enthusiasm is high. Years four to nine are the plateau. It is years ten to fifteen where properties are either sustained or quietly lost.",
+        "This is when the first major plant replacement falls due, when the original staff arrangement reaches its natural end, and when the family circumstances that justified the purchase have frequently changed. We see more properties come back to market in year twelve than in any other year, and the great majority of those sales are avoidable.",
+        "## What sustains a house",
+        "Three things, in our experience. A staffing arrangement that survives the departure of any single individual. A maintenance schedule that is written down and funded rather than reactive. And an honest annual conversation about whether the property still fits the life it was bought for.",
+        "We conduct that last one formally on every property we manage. Occasionally it results in a sale, which is a legitimate outcome and considerably better than the alternative — a house that is retained out of inertia and deteriorates for four years before anyone admits it.",
+        "## Why we do it",
+        "Partly because clients ask. Mostly because a property we placed and then watched decline reflects on the recommendation we made, and the recommendation is the only thing this house actually sells."
+      ]
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-101",
+      "propertyId": "p-001",
+      "propertyName": "Villa Serafina",
+      "propertyReference": "MV-4471-SD",
+      "name": "Lord Julian Vance",
+      "email": "vance@monaco-investments.mc",
+      "phone": "+377 98 98 00 11",
+      "message": "Requesting a private viewing for Villa Serafina during the second week of next month.",
+      "createdAt": "2026-09-10T08:25:17.662Z",
+      "status": "new"
+    }
+  ]
+}

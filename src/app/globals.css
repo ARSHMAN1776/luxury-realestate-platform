@@ -1,0 +1,480 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   MERIDIAN & VOSS — DESIGN SYSTEM
+   International private property house, est. 1974.
+
+   Palette      Obsidian (ground) · Bone (paper) · Brass (accent)
+   Typography   Cormorant Garamond (display) · Inter (interface)
+   Motion       Slow, weighted, expensive. Never bouncy.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@theme {
+  /* ── Typefaces ───────────────────────────────────────────────────────── */
+  --font-display: var(--font-cormorant), "Cormorant Garamond", "Times New Roman", serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* ── Obsidian · the ground ───────────────────────────────────────────── */
+  --color-obsidian-950: #060607;
+  --color-obsidian-900: #0a0a0c;
+  --color-obsidian-850: #0e0e11;
+  --color-obsidian-800: #131317;
+  --color-obsidian-700: #1b1b20;
+  --color-obsidian-600: #26262d;
+  --color-obsidian-500: #35353e;
+
+  /* ── Bone · the paper ────────────────────────────────────────────────── */
+  --color-bone-50: #fcfbf8;
+  --color-bone-100: #f5f2ec;
+  --color-bone-200: #ebe6db;
+  --color-bone-300: #dad3c4;
+  --color-bone-400: #b8b0a0;
+  --color-bone-500: #8d867a;
+  --color-bone-600: #6a645b;
+
+  /* ── Brass · the accent ──────────────────────────────────────────────── */
+  --color-brass-200: #f0e5cb;
+  --color-brass-300: #e0cfa6;
+  --color-brass-400: #ceb782;
+  --color-brass-500: #b99c5e;
+  --color-brass-600: #9c8049;
+  --color-brass-700: #756036;
+  --color-brass-900: #3a2f1b;
+
+  /* ── Semantic ────────────────────────────────────────────────────────── */
+  --color-ink: #f5f2ec;
+  --color-ink-muted: #8d867a;
+  --color-ground: #0a0a0c;
+  --color-hairline: rgba(245, 242, 236, 0.1);
+  --color-hairline-strong: rgba(245, 242, 236, 0.22);
+
+  /* ── Motion ──────────────────────────────────────────────────────────── */
+  --ease-luxe: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-glide: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-exit: cubic-bezier(0.7, 0, 0.84, 0);
+
+  /* ── Structure ───────────────────────────────────────────────────────── */
+  --spacing-gutter: clamp(1.25rem, 4vw, 4.5rem);
+  --radius-none: 0px;
+
+  /* ── Fluid display scale (editorial, not app-like) ───────────────────── */
+  --text-hero: clamp(3.25rem, 12.5vw, 15rem);
+  --text-display: clamp(2.75rem, 7.5vw, 8rem);
+  --text-title: clamp(2rem, 4.6vw, 4.25rem);
+  --text-heading: clamp(1.6rem, 2.8vw, 2.6rem);
+  --text-subhead: clamp(1.15rem, 1.6vw, 1.5rem);
+
+  /* ── Shadows — used sparingly; luxury is flat with light ─────────────── */
+  --shadow-lift: 0 40px 80px -32px rgba(0, 0, 0, 0.85);
+  --shadow-brass: 0 0 0 1px rgba(185, 156, 94, 0.35), 0 30px 60px -30px rgba(185, 156, 94, 0.35);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BASE
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: var(--color-hairline);
+    min-width: 0;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: auto; /* Lenis owns scrolling */
+    background-color: var(--color-obsidian-950);
+    color-scheme: dark;
+  }
+
+  html.light {
+    color-scheme: light;
+    --color-ground: #f7f5f0;
+    --color-ink: #121215;
+    --color-ink-muted: #5f5a50;
+    --color-hairline: rgba(18, 18, 21, 0.12);
+    --color-hairline-strong: rgba(18, 18, 21, 0.25);
+
+    --color-obsidian-950: #f7f5f0;
+    --color-obsidian-900: #eeebe3;
+    --color-obsidian-850: #e4e0d4;
+    --color-obsidian-800: #d8d3c4;
+    --color-obsidian-700: #c2bcb0;
+
+    --color-bone-50: #0d0d0f;
+    --color-bone-100: #151518;
+    --color-bone-200: #25242b;
+    --color-bone-300: #383540;
+    --color-bone-400: #54505c;
+    --color-bone-500: #6e6978;
+  }
+
+  html.light #hero,
+  html.light .hero-media {
+    --color-bone-50: #fcfbf8;
+    --color-bone-100: #f5f2ec;
+    --color-bone-200: #ebe6db;
+    --color-bone-300: #dad3c4;
+    --color-bone-400: #b8b0a0;
+    --color-bone-500: #8d867a;
+  }
+
+  body {
+    background-color: var(--color-ground);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+    transition: background-color 0.4s ease, color 0.4s ease;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    font-weight: 300;
+    letter-spacing: -0.015em;
+    line-height: 0.95;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Numbers align in tables of specification */
+  .tabular,
+  table {
+    font-variant-numeric: tabular-nums;
+  }
+
+  ::selection {
+    background-color: var(--color-brass-500);
+    color: var(--color-obsidian-950);
+  }
+
+  :focus-visible {
+    outline: 1px solid var(--color-brass-400);
+    outline-offset: 3px;
+  }
+
+  /* Scrollbar — thin, brass, unobtrusive */
+  ::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-obsidian-950);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-obsidian-600);
+    border: 3px solid var(--color-obsidian-950);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-brass-700);
+  }
+
+  input,
+  textarea,
+  select,
+  button {
+    font: inherit;
+    color: inherit;
+  }
+
+  input::placeholder,
+  textarea::placeholder {
+    color: var(--color-bone-600);
+  }
+
+  /* Kill the ugly autofill wash */
+  input:-webkit-autofill,
+  input:-webkit-autofill:focus {
+    -webkit-text-fill-color: var(--color-ink);
+    -webkit-box-shadow: 0 0 0 1000px var(--color-obsidian-850) inset;
+    transition: background-color 9999s ease-in-out 0s;
+  }
+
+  img {
+    -webkit-user-drag: none;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   UTILITIES
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Page gutter — one rhythm across the entire site */
+@utility shell {
+  width: 100%;
+  margin-inline: auto;
+  max-width: 110rem;
+  padding-inline: var(--spacing-gutter);
+}
+
+/* The micro-label: uppercase, wide, small. Used above every section title. */
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+/* Editorial body copy */
+@utility prose-luxe {
+  font-size: clamp(0.975rem, 1.05vw, 1.125rem);
+  line-height: 1.75;
+  color: var(--color-bone-400);
+  letter-spacing: 0.002em;
+}
+
+/* Hairline rule, matched to the token */
+@utility rule {
+  height: 1px;
+  width: 100%;
+  background-color: var(--color-hairline);
+}
+
+/* Vertical text for side rails */
+@utility vertical-rl {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+@layer utilities {
+  /* Film-grain overlay — gives flat black photographic depth */
+  .grain::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 20;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 220 220' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* Cinematic bottom gradient for full-bleed imagery */
+  .scrim-b {
+    background-image: linear-gradient(
+      to top,
+      rgb(6 6 7 / 0.95) 0%,
+      rgb(6 6 7 / 0.7) 22%,
+      rgb(6 6 7 / 0.25) 48%,
+      transparent 78%
+    );
+  }
+
+  .scrim-full {
+    background-image: linear-gradient(
+        to top,
+        rgb(6 6 7 / 0.92) 0%,
+        rgb(6 6 7 / 0.35) 45%,
+        rgb(6 6 7 / 0.55) 100%
+      ),
+      radial-gradient(120% 80% at 50% 55%, transparent 30%, rgb(6 6 7 / 0.6) 100%);
+  }
+
+  /* Brass hairline underline that draws on hover */
+  .link-draw {
+    position: relative;
+    display: inline-block;
+  }
+  .link-draw::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    height: 1px;
+    width: 100%;
+    background-color: currentColor;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.6s var(--ease-luxe);
+  }
+  .link-draw:hover::after,
+  .link-draw:focus-visible::after {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  /* Text masked reveal container */
+  .mask-line {
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0.08em;
+    margin-bottom: -0.08em;
+  }
+
+  /* Fades the edges of horizontal rails */
+  .edge-fade-x {
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent,
+      #000 6%,
+      #000 94%,
+      transparent
+    );
+    mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent);
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Applied to <html> while a modal / menu owns the viewport */
+  .scroll-locked {
+    overflow: hidden;
+  }
+}
+
+/* Native cursor is only surrendered once ours has actually mounted. */
+.has-custom-cursor,
+.has-custom-cursor a,
+.has-custom-cursor button,
+.has-custom-cursor [role="button"],
+.has-custom-cursor label,
+.has-custom-cursor summary {
+  cursor: none;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   KEYFRAMES
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@keyframes marquee-x {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+@keyframes ken-burns {
+  from {
+    transform: scale(1.06) translate3d(0, 0, 0);
+  }
+  to {
+    transform: scale(1.16) translate3d(0, -1.5%, 0);
+  }
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.85);
+    opacity: 0.9;
+  }
+  70% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+@keyframes scroll-hint {
+  0% {
+    transform: translateY(-100%);
+  }
+  50% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+/* Radix Accordion — height is resolved by Radix into a CSS var at runtime */
+@keyframes acc-down {
+  from {
+    height: 0;
+    opacity: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+    opacity: 1;
+  }
+}
+
+@keyframes acc-up {
+  from {
+    height: var(--radix-accordion-content-height);
+    opacity: 1;
+  }
+  to {
+    height: 0;
+    opacity: 0;
+  }
+}
+
+@layer utilities {
+  .animate-marquee-x {
+    animation: marquee-x 42s linear infinite;
+  }
+  .animate-ken-burns {
+    animation: ken-burns 18s ease-out forwards;
+  }
+  .animate-pulse-ring {
+    animation: pulse-ring 2.8s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+  }
+  .animate-scroll-hint {
+    animation: scroll-hint 2.4s var(--ease-glide) infinite;
+  }
+  .skeleton {
+    background: linear-gradient(
+      90deg,
+      var(--color-obsidian-800) 25%,
+      var(--color-obsidian-700) 50%,
+      var(--color-obsidian-800) 75%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.8s linear infinite;
+  }
+  /* The open-state rotation for the accordion plus — 45° past vertical */
+  .rotate-135 {
+    rotate: 135deg;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   ACCESSIBILITY — motion is a garnish, never a requirement
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .animate-ken-burns,
+  .animate-marquee-x,
+  .animate-pulse-ring,
+  .animate-scroll-hint {
+    animation: none !important;
+  }
+}
